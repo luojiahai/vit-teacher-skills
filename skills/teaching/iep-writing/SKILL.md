@@ -1,5 +1,5 @@
 ---
-name: iep-writing
+name: teaching/iep-writing
 description: >
   Write Individual Education Plans (IEPs), Individual Learning Plans (ILPs), and other
   personalised learning documentation for Victorian students, including NCCD evidence,
@@ -193,8 +193,8 @@ For EAL students, the standard 5-point age-related reporting scale is not approp
 
 ## Cross-Skill Connections
 
-- Use `report-card-writing` when it's time to write report comments for a student with an IEP — the report should reference the IEP goals
-- Use `assessment-design` to create differentiated assessments that match IEP goals
-- Use `behaviour-support-planning` if the student's needs include significant behavioural support
-- Use `incident-documentation` if behaviour incidents occur — consistent documentation supports plan review
-- Use `parent-communication` for sensitive conversations about learning plans with parents
+- Use `teaching:report-card-writing` when it's time to write report comments for a student with an IEP — the report should reference the IEP goals
+- Use `teaching:assessment-design` to create differentiated assessments that match IEP goals
+- Use `teaching:behaviour-support-planning` if the student's needs include significant behavioural support
+- Use `teaching:incident-documentation` if behaviour incidents occur — consistent documentation supports plan review
+- Use `teaching:parent-communication` for sensitive conversations about learning plans with parents

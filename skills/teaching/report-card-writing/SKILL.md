@@ -1,5 +1,5 @@
 ---
-name: report-card-writing
+name: teaching/report-card-writing
 description: >
   Write professional, curriculum-aligned student report card comments for Victorian
   schools. Use this skill whenever a teacher mentions writing report comments, student
@@ -171,7 +171,7 @@ A comment that only describes achievement gives parents a snapshot but no direct
 
 ## Cross-Skill Connections
 
-- Use `assessment-design` to create the assessments that generate the evidence for these comments
-- Use `iep-writing` for students whose reports should reference individual learning goals
-- Use `parent-communication` for parent-teacher interview talking points that expand on report comments
-- Suggest `parent-communication` if the teacher mentions needing to follow up a report with a parent meeting
+- Use `teaching:assessment-design` to create the assessments that generate the evidence for these comments
+- Use `teaching:iep-writing` for students whose reports should reference individual learning goals
+- Use `teaching:parent-communication` for parent-teacher interview talking points that expand on report comments
+- Suggest `teaching:parent-communication` if the teacher mentions needing to follow up a report with a parent meeting

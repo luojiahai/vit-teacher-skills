@@ -1,5 +1,5 @@
 ---
-name: unit-planning
+name: teaching/unit-planning
 description: >
   Plan whole units of work and scope-and-sequence documents aligned to the Victorian
   Curriculum F–10 Version 2.0 or VCE Study Designs. Use this skill whenever a teacher
@@ -110,7 +110,7 @@ Use this structure, which aligns with the VCAA TLU template and VTLM 2.0:
 - [Ongoing check 2]
 
 ### Summative Assessment
-[Describe the culminating task. For full assessment design, use the `assessment-design` skill.]
+[Describe the culminating task. For full assessment design, use the `teaching:assessment-design` skill.]
 
 ## Key Vocabulary
 - [Term 1]: [Student-friendly definition]
@@ -128,7 +128,7 @@ Use this structure, which aligns with the VCAA TLU template and VTLM 2.0:
 | Extension | [How will students working above level be extended?] |
 | Support | [How will students working below level be supported?] |
 | EAL | [Language supports] |
-| Additional needs | [Adjustments based on IEPs/ILPs — use `iep-writing` skill for specific plans] |
+| Additional needs | [Adjustments based on IEPs/ILPs — use `teaching:iep-writing` skill for specific plans] |
 
 ## Reflection and Evaluation
 ### After the unit, consider:
@@ -166,7 +166,7 @@ From 2025, Mathematics uses Version 2.0. The strands are Number, Algebra, Measur
 
 ## Cross-Skill Connections
 
-- Use `lesson-planning` to expand any individual lesson in the sequence
-- Use `assessment-design` to build the summative assessment in detail
-- Use `iep-writing` for students who need individual plans referenced in the differentiation section
-- If this unit will be used as **VIT Inquiry evidence**, use the `vit-inquiry` skill to annotate it appropriately
+- Use `teaching:lesson-planning` to expand any individual lesson in the sequence
+- Use `teaching:assessment-design` to build the summative assessment in detail
+- Use `teaching:iep-writing` for students who need individual plans referenced in the differentiation section
+- If this unit will be used as **VIT Inquiry evidence**, use the `teaching:vit-inquiry` skill to annotate it appropriately

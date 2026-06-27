@@ -1,5 +1,5 @@
 ---
-name: professional-learning-reflection
+name: teaching/professional-learning-reflection
 description: >
   Document and reflect on professional learning for VIT registration renewal in
   Victoria. Covers the annual 20-hour PL requirement, APST domain coverage, practice
@@ -202,11 +202,11 @@ Professional reading is one of the most accessible forms of PL — free, flexibl
 20 hours of deep, practice-changing PL is better than 40 hours of superficial attendance. VIT auditors look for evidence of genuine professional growth, not hour-counting. A single action research project that runs across a term and demonstrably improves student outcomes is stronger evidence than 10 half-day workshops you can't remember.
 
 ### For PRTs completing the Inquiry
-If you're a provisionally registered teacher completing the VIT Inquiry: your Inquiry professional learning counts toward your PL hours. The Inquiry itself is substantial professional learning. Document it using this skill, but note that the Inquiry documentation (via the `vit-inquiry` skill) is your primary evidence.
+If you're a provisionally registered teacher completing the VIT Inquiry: your Inquiry professional learning counts toward your PL hours. The Inquiry itself is substantial professional learning. Document it using this skill, but note that the Inquiry documentation (via the `teaching:vit-inquiry` skill) is your primary evidence.
 
 ## Cross-Skill Connections
 
-- Use `vit-inquiry` if you're a PRT — your Inquiry PL feeds into your overall PL log
-- Use `lesson-planning` or `unit-planning` to document how PL has changed your planning
-- Use `assessment-design` to show how assessment-related PL has changed your practice
+- Use `teaching:vit-inquiry` if you're a PRT — your Inquiry PL feeds into your overall PL log
+- Use `teaching:lesson-planning` or `teaching:unit-planning` to document how PL has changed your planning
+- Use `teaching:assessment-design` to show how assessment-related PL has changed your practice
 - Connect PL reflections to specific lessons or units to strengthen the practice-impact narrative

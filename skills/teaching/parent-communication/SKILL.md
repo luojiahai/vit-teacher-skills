@@ -1,5 +1,5 @@
 ---
-name: parent-communication
+name: teaching/parent-communication
 description: >
   Write professional, policy-compliant communications to parents and carers in Victorian
   schools. Covers parent emails, newsletter contributions, parent-teacher interview
@@ -219,7 +219,7 @@ A parent who complains and feels heard may become your strongest ally. A parent 
 
 ## Cross-Skill Connections
 
-- Use `report-card-writing` when it's report season — report comments and parent-teacher interviews are complementary
-- Use `incident-documentation` if the communication relates to an incident — keep the documentation and the parent communication aligned
-- Use `iep-writing` for communications about a student's individual learning plan — these conversations need to reference the plan
-- Use `behaviour-support-planning` if a parent conversation identifies the need for a BSP
+- Use `teaching:report-card-writing` when it's report season — report comments and parent-teacher interviews are complementary
+- Use `teaching:incident-documentation` if the communication relates to an incident — keep the documentation and the parent communication aligned
+- Use `teaching:iep-writing` for communications about a student's individual learning plan — these conversations need to reference the plan
+- Use `teaching:behaviour-support-planning` if a parent conversation identifies the need for a BSP

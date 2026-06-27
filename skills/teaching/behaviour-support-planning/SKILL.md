@@ -1,5 +1,5 @@
 ---
-name: behaviour-support-planning
+name: teaching/behaviour-support-planning
 description: >
   Create proactive Behaviour Support Plans (BSPs) and conduct Functional Behaviour
   Assessments (FBAs) for Victorian students, aligned to School-Wide Positive Behaviour
@@ -28,7 +28,7 @@ Clarify the scope:
 4. **Who needs to be involved?** Student, parents/carers, wellbeing team, specialists?
 5. **Is there a known diagnosis or NCCD category?** (This informs but does not define the plan)
 
-If behaviour incidents have been occurring, the teacher should document them first using `incident-documentation`. A BSP is built on data, not impressions.
+If behaviour incidents have been occurring, the teacher should document them first using `teaching:incident-documentation`. A BSP is built on data, not impressions.
 
 Read `references/swpbs-framework.md` for the SWPBS framework and `references/functional-behaviour-assessment.md` for FBA methodology.
 
@@ -50,7 +50,7 @@ A BSP is typically a Tier 3 document. Tier 2 interventions may use a simpler beh
 
 Before designing strategies, understand the behaviour. Gather:
 
-- **Incident data**: Read past incident reports (suggest using `incident-documentation` if not yet written)
+- **Incident data**: Read past incident reports (suggest using `teaching:incident-documentation` if not yet written)
 - **ABC data**: Antecedent (what happened before?), Behaviour (what did the student do?), Consequence (what happened after?)
 - **Frequency/duration/intensity**: How often? How long? How severe?
 - **Settings**: Where and when does it occur? (Specific class? Time of day? With particular peers?)
@@ -201,7 +201,7 @@ Students, especially older ones, often know what triggers their behaviour and wh
 
 ## Cross-Skill Connections
 
-- Use `incident-documentation` to record specific incidents — these inform the FBA and track progress
-- Use `iep-writing` if the BSP goals should be incorporated into the student's IEP or ILP
-- Use `parent-communication` for sensitive conversations about behaviour plans with parents
-- Use `report-card-writing` to ensure report comments for students with BSPs reference progress appropriately
+- Use `teaching:incident-documentation` to record specific incidents — these inform the FBA and track progress
+- Use `teaching:iep-writing` if the BSP goals should be incorporated into the student's IEP or ILP
+- Use `teaching:parent-communication` for sensitive conversations about behaviour plans with parents
+- Use `teaching:report-card-writing` to ensure report comments for students with BSPs reference progress appropriately

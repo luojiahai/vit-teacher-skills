@@ -1,5 +1,5 @@
 ---
-name: lesson-planning
+name: teaching/lesson-planning
 description: >
   Plan single lessons aligned to the Victorian Curriculum F–10 or VCE Study Designs,
   incorporating explicit instruction, differentiation, and APST alignment.
@@ -143,8 +143,8 @@ Differentiation is not three separate worksheets. It's about removing barriers s
 ### Step 5: Connect to Broader Planning
 
 Note how this lesson connects to:
-- The unit plan (suggest using the `unit-planning` skill if the teacher hasn't planned the unit yet)
-- The assessment schedule (suggest using the `assessment-design` skill for the unit assessment)
+- The unit plan (suggest using the `teaching:unit-planning` skill if the teacher hasn't planned the unit yet)
+- The assessment schedule (suggest using the `teaching:assessment-design` skill for the unit assessment)
 - Prior and future lessons in the sequence
 
 ## Important Principles
@@ -163,7 +163,7 @@ A lesson plan is a guide, not a script. The best plans are clear enough to follo
 
 ## When a Lesson Plan Needs More
 
-- If the teacher needs a **whole unit**, suggest the `unit-planning` skill
-- If they need **assessment tasks**, suggest the `assessment-design` skill
-- If they're working on their **VIT Inquiry**, suggest the `vit-inquiry` skill — annotated lesson plans are core evidence
-- If the lesson involves a student with an **IEP**, suggest the `iep-writing` skill
+- If the teacher needs a **whole unit**, suggest the `teaching:unit-planning` skill
+- If they need **assessment tasks**, suggest the `teaching:assessment-design` skill
+- If they're working on their **VIT Inquiry**, suggest the `teaching:vit-inquiry` skill — annotated lesson plans are core evidence
+- If the lesson involves a student with an **IEP**, suggest the `teaching:iep-writing` skill
