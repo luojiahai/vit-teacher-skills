@@ -19,11 +19,17 @@ A collection of skills for VIT-registered teachers in Victoria, Australia — he
 
 ## Installation
 
+Install all 10 skills at once:
+
+```bash
+npx skills@latest add luojiahai/vit-teacher-skills --all
+```
+
+Or pick individual skills interactively:
+
 ```bash
 npx skills@latest add luojiahai/vit-teacher-skills
 ```
-
-Then select which skills you want to install. All 10 skills are optional — install only what you need.
 
 ## Requirements
 

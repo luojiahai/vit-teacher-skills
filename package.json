@@ -26,6 +26,7 @@
   "files": [
     "skills/",
     "shared-references/",
+    ".claude-plugin/",
     "CLAUDE.md",
     "README.md"
   ]

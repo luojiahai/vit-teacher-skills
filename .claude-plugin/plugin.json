@@ -1,0 +1,15 @@
+{
+  "name": "vit-teacher-skills",
+  "skills": [
+    "./skills/teaching/lesson-planning",
+    "./skills/teaching/unit-planning",
+    "./skills/teaching/assessment-design",
+    "./skills/teaching/report-card-writing",
+    "./skills/teaching/iep-writing",
+    "./skills/teaching/incident-documentation",
+    "./skills/teaching/behaviour-support-planning",
+    "./skills/teaching/parent-communication",
+    "./skills/teaching/vit-inquiry",
+    "./skills/teaching/professional-learning-reflection"
+  ]
+}
