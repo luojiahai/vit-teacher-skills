@@ -1,6 +1,14 @@
 ---
 name: unit-planning
-description: Plan whole units of work and scope-and-sequence documents aligned to the Victorian Curriculum F–10 Version 2.0 or VCE Study Designs. Use this skill whenever a teacher mentions unit planning, term planning, scope and sequence, curriculum mapping, designing a sequence of lessons, creating a unit of work, or needs to map curriculum content across weeks or a term. Also trigger when someone asks to "map out" a topic, plan "a series of lessons", "a term of [subject]", or mentions VCAA unit templates. When a teacher has been using the lesson-planning skill and seems to be planning multiple related lessons, suggest this skill.
+description: >
+  Plan whole units of work and scope-and-sequence documents aligned to the Victorian
+  Curriculum F–10 Version 2.0 or VCE Study Designs. Use this skill whenever a teacher
+  mentions unit planning, term planning, scope and sequence, curriculum mapping,
+  designing a sequence of lessons, creating a unit of work, or needs to map curriculum
+  content across weeks or a term. Also trigger when someone asks to "map out" a topic,
+  plan "a series of lessons", "a term of [subject]", or mentions VCAA unit templates.
+  When a teacher has been using the lesson-planning skill and seems to be planning
+  multiple related lessons, suggest this skill.
 ---
 
 # Unit Planning (Victorian Curriculum / VCE)

@@ -1,6 +1,16 @@
 ---
 name: iep-writing
-description: Write Individual Education Plans (IEPs), Individual Learning Plans (ILPs), and other personalised learning documentation for Victorian students, including NCCD evidence, EAL learning plans, high-ability plans, and MYLNS documentation. Use this skill whenever a teacher mentions IEPs, ILPs, individual learning plans, NCCD documentation, student support plans, personalised learning, learning adjustments, EAL plans, high-ability plans, or needs to document differentiated support for specific students. Triggers include: "help me write an IEP", "I need to document NCCD adjustments", "create a learning plan for a student with [needs]", "EAL learning plan", "MYLNS documentation". This is the #1 administrative burden cited by Victorian teachers — this skill saves significant time.
+description: >
+  Write Individual Education Plans (IEPs), Individual Learning Plans (ILPs), and other
+  personalised learning documentation for Victorian students, including NCCD evidence,
+  EAL learning plans, high-ability plans, and MYLNS documentation. Use this skill
+  whenever a teacher mentions IEPs, ILPs, individual learning plans, NCCD documentation,
+  student support plans, personalised learning, learning adjustments, EAL plans,
+  high-ability plans, or needs to document differentiated support for specific students.
+  Triggers include: "help me write an IEP", "I need to document NCCD adjustments",
+  "create a learning plan for a student with [needs]", "EAL learning plan",
+  "MYLNS documentation". This is the #1 administrative burden cited by Victorian
+  teachers — this skill saves significant time.
 ---
 
 # IEP / ILP Writing (Victorian Schools)

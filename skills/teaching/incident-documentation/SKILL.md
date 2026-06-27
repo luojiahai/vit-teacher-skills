@@ -1,6 +1,17 @@
 ---
 name: incident-documentation
-description: Document student incidents, behavioural events, and child safety concerns in Victorian schools. Covers behaviour incidents, mandatory reporting to Child Protection (CYFA s.184), the Four Critical Actions framework, ISOC reporting, and CASES21/eduSafe Plus recording. Use this skill whenever a teacher needs to document something that happened — a classroom incident, a yard incident, a student disclosure, a behavioural event, a potential mandatory report, or any situation requiring formal documentation. Triggers include: "help me write up an incident", "I need to document what happened", "how do I report...", "a student disclosed...", "I witnessed...", "there was an incident with...". This skill is about objective recording — it does NOT advise on child safety decisions; teachers must follow their school's Child Safety Officer and DFFH/Police for mandated actions.
+description: >
+  Document student incidents, behavioural events, and child safety concerns in Victorian
+  schools. Covers behaviour incidents, mandatory reporting to Child Protection
+  (CYFA s.184), the Four Critical Actions framework, ISOC reporting, and
+  CASES21/eduSafe Plus recording. Use this skill whenever a teacher needs to document
+  something that happened — a classroom incident, a yard incident, a student disclosure,
+  a behavioural event, a potential mandatory report, or any situation requiring formal
+  documentation. Triggers include: "help me write up an incident", "I need to document
+  what happened", "how do I report...", "a student disclosed...", "I witnessed...",
+  "there was an incident with...". This skill is about objective recording — it does
+  NOT advise on child safety decisions; teachers must follow their school's Child Safety
+  Officer and DFFH/Police for mandated actions.
 ---
 
 # Incident Documentation (Victorian Schools)

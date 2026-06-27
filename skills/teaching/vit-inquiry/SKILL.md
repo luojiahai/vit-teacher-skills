@@ -1,6 +1,18 @@
 ---
 name: vit-inquiry
-description: Guide provisionally registered teachers (PRTs) through the VIT Inquiry process for moving from provisional to full registration in Victoria. Covers all 5 stages of the Inquiry (Timperley model), evidence collection against all 37 APST descriptors at the Proficient level, the Professional Responsibilities Report, and preparation for the Workplace Recommendation Panel. Use this skill whenever a teacher mentions their VIT inquiry, PRT process, moving to full registration, APST evidence gathering, the Inquiry process, their Workplace Recommendation Panel, or needing to document their teaching practice against the standards. Triggers include: "I need to start my VIT inquiry", "help with my PRT process", "how do I evidence the APST?", "I'm a provisional teacher", "moving to full registration", "Inquiry question", "professional responsibilities report". This is a career-critical process — the Inquiry is the gateway from provisional to full registration.
+description: >
+  Guide provisionally registered teachers (PRTs) through the VIT Inquiry process for
+  moving from provisional to full registration in Victoria. Covers all 5 stages of the
+  Inquiry (Timperley model), evidence collection against all 37 APST descriptors at the
+  Proficient level, the Professional Responsibilities Report, and preparation for the
+  Workplace Recommendation Panel. Use this skill whenever a teacher mentions their VIT
+  inquiry, PRT process, moving to full registration, APST evidence gathering, the
+  Inquiry process, their Workplace Recommendation Panel, or needing to document their
+  teaching practice against the standards. Triggers include: "I need to start my VIT
+  inquiry", "help with my PRT process", "how do I evidence the APST?", "I'm a
+  provisional teacher", "moving to full registration", "Inquiry question", "professional
+  responsibilities report". This is a career-critical process — the Inquiry is the
+  gateway from provisional to full registration.
 ---
 
 # VIT Inquiry — Provisional to Full Registration

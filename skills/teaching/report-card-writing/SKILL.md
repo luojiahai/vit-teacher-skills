@@ -1,6 +1,14 @@
 ---
 name: report-card-writing
-description: Write professional, curriculum-aligned student report card comments for Victorian schools. Use this skill whenever a teacher mentions writing report comments, student reports, semester reports, progress reports, report cards, parent-teacher report comments, or needs to communicate student achievement to parents/carers in written form. Triggers include: "help me write reports", "I need to write report comments", "how do I phrase this for a report?", "write a comment for a student who is [at/below/above] level in [subject]". Also trigger when an assessment-design session produces results that need to be communicated to parents.
+description: >
+  Write professional, curriculum-aligned student report card comments for Victorian
+  schools. Use this skill whenever a teacher mentions writing report comments, student
+  reports, semester reports, progress reports, report cards, parent-teacher report
+  comments, or needs to communicate student achievement to parents/carers in written
+  form. Triggers include: "help me write reports", "I need to write report comments",
+  "how do I phrase this for a report?", "write a comment for a student who is
+  [at/below/above] level in [subject]". Also trigger when an assessment-design session
+  produces results that need to be communicated to parents.
 ---
 
 # Report Card Writing (Victorian Schools)

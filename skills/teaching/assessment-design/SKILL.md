@@ -1,6 +1,15 @@
 ---
 name: assessment-design
-description: Design assessment tasks, rubrics, and feedback frameworks aligned to the Victorian Curriculum F–10 achievement standards or VCE Study Design outcomes. Use this skill whenever a teacher mentions designing an assessment, creating a rubric, building a test or exam, making a marking guide, setting criteria, designing a performance task, creating formative or summative assessments, or needs to develop feedback structures for student work. Also trigger when a unit-planning or lesson-planning session reaches the point where assessment tasks need to be designed. Keywords: rubric, marking criteria, assessment task, test, exam, performance task, portfolio, feedback, moderation, consistent judgement.
+description: >
+  Design assessment tasks, rubrics, and feedback frameworks aligned to the Victorian
+  Curriculum F–10 achievement standards or VCE Study Design outcomes. Use this skill
+  whenever a teacher mentions designing an assessment, creating a rubric, building a
+  test or exam, making a marking guide, setting criteria, designing a performance task,
+  creating formative or summative assessments, or needs to develop feedback structures
+  for student work. Also trigger when a unit-planning or lesson-planning session reaches
+  the point where assessment tasks need to be designed. Keywords: rubric, marking
+  criteria, assessment task, test, exam, performance task, portfolio, feedback,
+  moderation, consistent judgement.
 ---
 
 # Assessment Design (Victorian Curriculum / VCE)

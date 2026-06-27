@@ -1,6 +1,16 @@
 ---
 name: parent-communication
-description: Write professional, policy-compliant communications to parents and carers in Victorian schools. Covers parent emails, newsletter contributions, parent-teacher interview preparation, complaint responses, permission notes, and general parent correspondence. Use this skill whenever a teacher needs to communicate with parents or carers in writing — whether it's a quick email, a formal letter, a newsletter item, talking points for a parent-teacher interview, a response to a parent concern or complaint, or a permission slip. Triggers include: "help me write to parents", "how do I respond to this parent email?", "draft a newsletter", "parent-teacher interview notes", "parent complaint response", "permission note", "I need to tell parents about...". Aligned to APST Standard 7.3 (Engage with parents/carers).
+description: >
+  Write professional, policy-compliant communications to parents and carers in Victorian
+  schools. Covers parent emails, newsletter contributions, parent-teacher interview
+  preparation, complaint responses, permission notes, and general parent correspondence.
+  Use this skill whenever a teacher needs to communicate with parents or carers in
+  writing — whether it's a quick email, a formal letter, a newsletter item, talking
+  points for a parent-teacher interview, a response to a parent concern or complaint,
+  or a permission slip. Triggers include: "help me write to parents", "how do I respond
+  to this parent email?", "draft a newsletter", "parent-teacher interview notes",
+  "parent complaint response", "permission note", "I need to tell parents about...".
+  Aligned to APST Standard 7.3 (Engage with parents/carers).
 ---
 
 # Parent Communication (Victorian Schools)

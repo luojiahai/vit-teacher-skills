@@ -1,6 +1,17 @@
 ---
 name: behaviour-support-planning
-description: Create proactive Behaviour Support Plans (BSPs) and conduct Functional Behaviour Assessments (FBAs) for Victorian students, aligned to School-Wide Positive Behaviour Support (SWPBS) and Positive Classroom Management Strategies. Use this skill whenever a teacher needs to develop a behaviour plan, understand the function of a student's behaviour, design proactive strategies, implement tiered interventions, or create a behaviour support document. Triggers include: "help me write a behaviour plan", "I need a BSP", "functional behaviour assessment", "why is this student behaving this way?", "behaviour support strategies", "tier 2 intervention", "positive behaviour support plan". Distinct from incident-documentation: behaviour support plans are proactive (planning to prevent), while incident documentation is reactive (recording what happened).
+description: >
+  Create proactive Behaviour Support Plans (BSPs) and conduct Functional Behaviour
+  Assessments (FBAs) for Victorian students, aligned to School-Wide Positive Behaviour
+  Support (SWPBS) and Positive Classroom Management Strategies. Use this skill whenever
+  a teacher needs to develop a behaviour plan, understand the function of a student's
+  behaviour, design proactive strategies, implement tiered interventions, or create a
+  behaviour support document. Triggers include: "help me write a behaviour plan",
+  "I need a BSP", "functional behaviour assessment", "why is this student behaving
+  this way?", "behaviour support strategies", "tier 2 intervention", "positive behaviour
+  support plan". Distinct from incident-documentation: behaviour support plans are
+  proactive (planning to prevent), while incident documentation is reactive (recording
+  what happened).
 ---
 
 # Behaviour Support Planning (Victorian Schools)

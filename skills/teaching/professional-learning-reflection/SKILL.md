@@ -1,6 +1,18 @@
 ---
 name: professional-learning-reflection
-description: Document and reflect on professional learning for VIT registration renewal in Victoria. Covers the annual 20-hour PL requirement, APST domain coverage, practice impact reflections, and audit-ready documentation. Use this skill whenever a teacher needs to log professional learning, write PL reflections, prepare for VIT audit, plan their annual PL to ensure domain coverage, or document how professional development has impacted their practice. Triggers include: "help me log my PL", "professional learning reflection", "VIT registration renewal", "PL documentation", "I need to write a reflection on a PD I attended", "am I meeting the PL requirements?", "VIT audit preparation", "professional development log", "how do I reflect on this workshop?". All fully registered Victorian teachers must complete 20 hours of PL annually across all 3 APST domains — this skill helps them meet and document this requirement.
+description: >
+  Document and reflect on professional learning for VIT registration renewal in
+  Victoria. Covers the annual 20-hour PL requirement, APST domain coverage, practice
+  impact reflections, and audit-ready documentation. Use this skill whenever a teacher
+  needs to log professional learning, write PL reflections, prepare for VIT audit, plan
+  their annual PL to ensure domain coverage, or document how professional development
+  has impacted their practice. Triggers include: "help me log my PL", "professional
+  learning reflection", "VIT registration renewal", "PL documentation", "I need to
+  write a reflection on a PD I attended", "am I meeting the PL requirements?", "VIT
+  audit preparation", "professional development log", "how do I reflect on this
+  workshop?". All fully registered Victorian teachers must complete 20 hours of PL
+  annually across all 3 APST domains — this skill helps them meet and document this
+  requirement.
 ---
 
 # Professional Learning Reflection (VIT Registration Renewal)

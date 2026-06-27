@@ -1,6 +1,15 @@
 ---
 name: lesson-planning
-description: Plan single lessons aligned to the Victorian Curriculum F–10 or VCE Study Designs, incorporating explicit instruction, differentiation, and APST alignment. Use this skill whenever a teacher mentions planning a lesson, designing a class, creating a learning activity, writing learning intentions, or needs help structuring a teaching session — including when they say "I need to teach X tomorrow", "help me plan a lesson on...", "what's a good way to introduce...", or describe a topic and year level without explicitly asking for a plan. Also trigger when a unit-planning or assessment-design session naturally leads to needing the individual lesson detail.
+description: >
+  Plan single lessons aligned to the Victorian Curriculum F–10 or VCE Study Designs,
+  incorporating explicit instruction, differentiation, and APST alignment.
+  Use this skill whenever a teacher mentions planning a lesson, designing a class,
+  creating a learning activity, writing learning intentions, or needs help structuring
+  a teaching session — including when they say "I need to teach X tomorrow",
+  "help me plan a lesson on...", "what's a good way to introduce...", or describe
+  a topic and year level without explicitly asking for a plan. Also trigger when a
+  unit-planning or assessment-design session naturally leads to needing the individual
+  lesson detail.
 ---
 
 # Lesson Planning (Victorian Curriculum / VCE)
