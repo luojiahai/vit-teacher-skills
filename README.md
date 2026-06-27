@@ -6,16 +6,16 @@ A collection of skills for VIT-registered teachers in Victoria, Australia — he
 
 | Skill | What it does | Use frequency |
 |---|---|---|
-| `teaching:lesson-planning` | Single lesson plans aligned to Victorian Curriculum / VCE | Daily |
-| `teaching:unit-planning` | Whole-unit design, scope & sequence, curriculum mapping | Termly |
-| `teaching:assessment-design` | Assessment tasks, rubrics, feedback frameworks | Fortnightly |
-| `teaching:report-card-writing` | Student report comments — 5-point scale, plain English | Twice yearly |
-| `teaching:iep-writing` | IEPs, ILPs, NCCD documentation, EAL plans | Ongoing |
-| `teaching:incident-documentation` | Incident reports, mandatory reporting, child safety | As needed |
-| `teaching:behaviour-support-planning` | Proactive BSPs, FBAs, SWPBS tiered interventions | Ongoing |
-| `teaching:parent-communication` | Parent emails, newsletters, interviews, complaints | Daily/weekly |
-| `teaching:vit-inquiry` | PRT → Full registration: 5-stage Inquiry, 37 APST descriptors | Once per career |
-| `teaching:professional-learning-reflection` | Annual 20-hour PL documentation, VIT audit-ready | Annually |
+| `lesson-planning` | Single lesson plans aligned to Victorian Curriculum / VCE | Daily |
+| `unit-planning` | Whole-unit design, scope & sequence, curriculum mapping | Termly |
+| `assessment-design` | Assessment tasks, rubrics, feedback frameworks | Fortnightly |
+| `report-card-writing` | Student report comments — 5-point scale, plain English | Twice yearly |
+| `iep-writing` | IEPs, ILPs, NCCD documentation, EAL plans | Ongoing |
+| `incident-documentation` | Incident reports, mandatory reporting, child safety | As needed |
+| `behaviour-support-planning` | Proactive BSPs, FBAs, SWPBS tiered interventions | Ongoing |
+| `parent-communication` | Parent emails, newsletters, interviews, complaints | Daily/weekly |
+| `vit-inquiry` | PRT → Full registration: 5-stage Inquiry, 37 APST descriptors | Once per career |
+| `professional-learning-reflection` | Annual 20-hour PL documentation, VIT audit-ready | Annually |
 
 ## Installation
 
@@ -42,9 +42,9 @@ These skills are designed for:
 
 Every skill in this collection aligns to the **Australian Professional Standards for Teachers (APST)**:
 
-- **Professional Knowledge** (Standards 1–2): teaching:lesson-planning, unit-planning, iep-writing
-- **Professional Practice** (Standards 3–5): teaching:assessment-design, report-card-writing, behaviour-support-planning, incident-documentation
-- **Professional Engagement** (Standards 6–7): teaching:professional-learning-reflection, parent-communication, vit-inquiry
+- **Professional Knowledge** (Standards 1–2): lesson-planning, unit-planning, iep-writing
+- **Professional Practice** (Standards 3–5): assessment-design, report-card-writing, behaviour-support-planning, incident-documentation
+- **Professional Engagement** (Standards 6–7): professional-learning-reflection, parent-communication, vit-inquiry
 
 ## Victorian Curriculum Compliance
 

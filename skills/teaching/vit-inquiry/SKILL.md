@@ -1,7 +1,7 @@
 ---
-name: teaching/vit-inquiry
+name: vit-inquiry
 description: >
-  Guide provisionally registered teachers (PRTs) through the VIT Inquiry process for
+  (vit-teacher-skills) Guide provisionally registered teachers (PRTs) through the VIT Inquiry process for
   moving from provisional to full registration in Victoria. Covers all 5 stages of the
   Inquiry (Timperley model), evidence collection against all 37 APST descriptors at the
   Proficient level, the Professional Responsibilities Report, and preparation for the
@@ -255,10 +255,10 @@ A typical Inquiry takes 4–6 weeks of teaching (if seeing learners at least twi
 
 The Inquiry draws on almost every other skill in this set:
 
-- Use `teaching:lesson-planning` for the lessons in your Inquiry sequence
-- Use `teaching:unit-planning` for the overall program of learning
-- Use `teaching:assessment-design` for your pre-assessment, formative checks, and summative task
-- Use `teaching:iep-writing` if any of your focus learners have individual plans — your differentiation for them is key evidence
-- Use `teaching:report-card-writing` to understand how your assessment of learners connects to reporting
-- Use `teaching:parent-communication` if your Inquiry involves parent engagement (APST 3.7, 7.3)
-- Use `teaching:professional-learning-reflection` for documenting the professional learning that feeds into your Inquiry
+- Use `lesson-planning` for the lessons in your Inquiry sequence
+- Use `unit-planning` for the overall program of learning
+- Use `assessment-design` for your pre-assessment, formative checks, and summative task
+- Use `iep-writing` if any of your focus learners have individual plans — your differentiation for them is key evidence
+- Use `report-card-writing` to understand how your assessment of learners connects to reporting
+- Use `parent-communication` if your Inquiry involves parent engagement (APST 3.7, 7.3)
+- Use `professional-learning-reflection` for documenting the professional learning that feeds into your Inquiry

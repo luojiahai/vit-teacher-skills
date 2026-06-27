@@ -1,7 +1,7 @@
 ---
-name: teaching/incident-documentation
+name: incident-documentation
 description: >
-  Document student incidents, behavioural events, and child safety concerns in Victorian
+  (vit-teacher-skills) Document student incidents, behavioural events, and child safety concerns in Victorian
   schools. Covers behaviour incidents, mandatory reporting to Child Protection
   (CYFA s.184), the Four Critical Actions framework, ISOC reporting, and
   CASES21/eduSafe Plus recording. Use this skill whenever a teacher needs to document
@@ -183,6 +183,6 @@ Teachers sometimes hesitate to make mandatory reports because they're unsure. Th
 
 ## Cross-Skill Connections
 
-- Use `teaching:behaviour-support-planning` to develop proactive strategies following an incident — a good BSP prevents repeat incidents
-- Use `teaching:parent-communication` for the conversation with parents about an incident (separate from the formal documentation)
-- Use `teaching:iep-writing` if incidents suggest the student needs documented adjustments or behaviour goals in their plan
+- Use `behaviour-support-planning` to develop proactive strategies following an incident — a good BSP prevents repeat incidents
+- Use `parent-communication` for the conversation with parents about an incident (separate from the formal documentation)
+- Use `iep-writing` if incidents suggest the student needs documented adjustments or behaviour goals in their plan

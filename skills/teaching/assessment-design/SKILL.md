@@ -1,7 +1,7 @@
 ---
-name: teaching/assessment-design
+name: assessment-design
 description: >
-  Design assessment tasks, rubrics, and feedback frameworks aligned to the Victorian
+  (vit-teacher-skills) Design assessment tasks, rubrics, and feedback frameworks aligned to the Victorian
   Curriculum F–10 achievement standards or VCE Study Design outcomes. Use this skill
   whenever a teacher mentions designing an assessment, creating a rubric, building a
   test or exam, making a marking guide, setting criteria, designing a performance task,
@@ -166,6 +166,6 @@ VCE SACs and SATs have specific requirements set by VCAA. Always check the curre
 
 ## Cross-Skill Connections
 
-- Use `teaching:unit-planning` if the unit that houses this assessment isn't planned yet
-- Use `teaching:report-card-writing` when it's time to turn assessment results into report comments
-- Use `teaching:vit-inquiry` if this assessment will be annotated as evidence for registration
+- Use `unit-planning` if the unit that houses this assessment isn't planned yet
+- Use `report-card-writing` when it's time to turn assessment results into report comments
+- Use `vit-inquiry` if this assessment will be annotated as evidence for registration

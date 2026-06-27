@@ -20,16 +20,16 @@ All skills live in `skills/teaching/`. Each skill has a `SKILL.md` with its name
 
 | Skill | For |
 |---|---|
-| `teaching:lesson-planning` | Single lesson plans — Victorian Curriculum F–10 / VCE |
-| `teaching:unit-planning` | Whole-unit and term plans, scope & sequence |
-| `teaching:assessment-design` | Assessment tasks, rubrics, feedback frameworks |
-| `teaching:report-card-writing` | Student report comments — 5-point scale, plain English |
-| `teaching:iep-writing` | IEPs, ILPs, NCCD documentation, EAL/high-ability plans |
-| `teaching:incident-documentation` | Incident reports, mandatory reporting, child safety |
-| `teaching:behaviour-support-planning` | Proactive BSPs, functional behaviour assessments, SWPBS |
-| `teaching:parent-communication` | Parent emails, newsletters, interviews, complaints |
-| `teaching:vit-inquiry` | PRT → Full registration: 5-stage Inquiry, 37 APST descriptors |
-| `teaching:professional-learning-reflection` | Annual 20-hour PL documentation, VIT audit-ready |
+| `lesson-planning` | Single lesson plans — Victorian Curriculum F–10 / VCE |
+| `unit-planning` | Whole-unit and term plans, scope & sequence |
+| `assessment-design` | Assessment tasks, rubrics, feedback frameworks |
+| `report-card-writing` | Student report comments — 5-point scale, plain English |
+| `iep-writing` | IEPs, ILPs, NCCD documentation, EAL/high-ability plans |
+| `incident-documentation` | Incident reports, mandatory reporting, child safety |
+| `behaviour-support-planning` | Proactive BSPs, functional behaviour assessments, SWPBS |
+| `parent-communication` | Parent emails, newsletters, interviews, complaints |
+| `vit-inquiry` | PRT → Full registration: 5-stage Inquiry, 37 APST descriptors |
+| `professional-learning-reflection` | Annual 20-hour PL documentation, VIT audit-ready |
 
 ## Shared References
 
@@ -47,17 +47,17 @@ When a skill instructs you to read a shared reference, read it. The references c
 The skills form natural chains:
 
 ```
-teaching:unit-planning → teaching:lesson-planning → teaching:assessment-design → teaching:report-card-writing
-                                                                                    → teaching:parent-communication
+unit-planning → lesson-planning → assessment-design → report-card-writing
+                                                                                    → parent-communication
 
-teaching:iep-writing ←→ teaching:behaviour-support-planning ←→ teaching:incident-documentation
+iep-writing ←→ behaviour-support-planning ←→ incident-documentation
 
-teaching:vit-inquiry ← nearly all other skills (as evidence sources)
+vit-inquiry ← nearly all other skills (as evidence sources)
 
-teaching:professional-learning-reflection ← ongoing from all practice
+professional-learning-reflection ← ongoing from all practice
 ```
 
-When using one skill, suggest related skills if the teacher's need extends beyond the current scope. For example, if a teacher asks for a lesson plan but doesn't have a unit plan, suggest `teaching:unit-planning`. If a teacher is documenting incidents and the behaviour is recurring, suggest `teaching:behaviour-support-planning`.
+When using one skill, suggest related skills if the teacher's need extends beyond the current scope. For example, if a teacher asks for a lesson plan but doesn't have a unit plan, suggest `unit-planning`. If a teacher is documenting incidents and the behaviour is recurring, suggest `behaviour-support-planning`.
 
 ## Important Context
 
