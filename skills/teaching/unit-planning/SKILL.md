@@ -170,3 +170,4 @@ From 2025, Mathematics uses Version 2.0. The strands are Number, Algebra, Measur
 - Use `assessment-design` to build the summative assessment in detail
 - Use `iep-writing` for students who need individual plans referenced in the differentiation section
 - If this unit will be used as **VIT Inquiry evidence**, use the `vit-inquiry` skill to annotate it appropriately
+- Use `vit-registration-renewal` or `professional-learning-reflection` to document collaborative planning as professional learning (APST 6.3)

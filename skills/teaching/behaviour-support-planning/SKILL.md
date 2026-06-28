@@ -205,3 +205,4 @@ Students, especially older ones, often know what triggers their behaviour and wh
 - Use `iep-writing` if the BSP goals should be incorporated into the student's IEP or ILP
 - Use `parent-communication` for sensitive conversations about behaviour plans with parents
 - Use `report-card-writing` to ensure report comments for students with BSPs reference progress appropriately
+- Use `vit-professional-conduct` for guidance on maintaining professional boundaries when working intensively with students who have behavioural needs

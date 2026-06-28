@@ -186,3 +186,4 @@ Teachers sometimes hesitate to make mandatory reports because they're unsure. Th
 - Use `behaviour-support-planning` to develop proactive strategies following an incident — a good BSP prevents repeat incidents
 - Use `parent-communication` for the conversation with parents about an incident (separate from the formal documentation)
 - Use `iep-writing` if incidents suggest the student needs documented adjustments or behaviour goals in their plan
+- Use `vit-professional-conduct` for guidance on mandatory reporting obligations, professional boundaries during student disclosures, and documenting incidents that may involve conduct concerns

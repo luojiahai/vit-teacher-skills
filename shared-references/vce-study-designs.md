@@ -2,135 +2,89 @@
 
 ## Overview
 
-The Victorian Certificate of Education (VCE) is Victoria's senior secondary qualification (Years 11–12). Each VCE subject is governed by a **Study Design** published by the Victorian Curriculum and Assessment Authority (VCAA). Study Designs specify the content, outcomes, and assessment for each subject.
+The Victorian Certificate of Education (VCE) is Victoria's senior secondary qualification (Years 11–12). VIT-registered teachers teaching VCE must design programs, assessments, and reports aligned to the VCAA Study Designs for their subjects. VCE Study Designs are revised on rolling schedules — always check the current accreditation period for a given subject.
 
-Source: Victorian Curriculum and Assessment Authority (VCAA) — https://www.vcaa.vic.edu.au/
-
----
+**Source**: Victorian Curriculum and Assessment Authority (VCAA), vcaa.vic.edu.au
 
 ## VCE Structure
 
-- Most VCE subjects are organised into **4 units** (Units 1–4)
-- Units 1 and 2 are typically studied in Year 11; Units 3 and 4 in Year 12
-- Each unit has **2–4 Areas of Study** with associated **Outcomes**
-- Units 3 and 4 are assessed through **School-Assessed Coursework (SACs)** and external **examinations**
-- Some subjects also have **School-Assessed Tasks (SATs)** for practical components
+### Units
 
----
+VCE subjects are structured into **Units 1–4**, typically taken over two years:
+- **Units 1 and 2**: Year 11 (foundation level)
+- **Units 3 and 4**: Year 12 (more challenging; most have an external examination)
 
-## VCE Subject Groups
+Each unit contains 2–4 **Areas of Study** (AoS) and takes approximately one semester (_50–60 hours_).
 
-### English
-- English (mandatory — all students must complete 3 units from the English group)
-- English as an Additional Language (EAL)
-- Literature
-- English Language
+### Outcomes
 
-### Mathematics
-- Foundation Mathematics (Units 1–2)
-- General Mathematics (Units 1–4)
-- Mathematical Methods (Units 1–4)
-- Specialist Mathematics (Units 1–4)
+Each Area of Study has one or more **Outcomes** — the specific, assessable statements describing what students must know and be able to do.
 
-### Sciences
-- Biology
-- Chemistry
-- Environmental Science
-- Physics
-- Psychology
+### Key Knowledge and Key Skills
 
-### Humanities
-- Accounting
-- Business Management
-- Economics
-- Geography
-- History (Australian, Ancient, Revolutions)
-- Legal Studies
-- Philosophy
-- Politics
-- Religion and Society
-- Sociology
-- Texts and Traditions
+Each Outcome is supported by:
+- **Key knowledge** — the facts, concepts, and ideas students must understand
+- **Key skills** — the abilities students must demonstrate
 
-### The Arts
-- Art Creative Practice
-- Art Making and Exhibiting
-- Dance
-- Drama
-- Media
-- Music (multiple streams)
-- Theatre Studies
-- Visual Communication Design
+## Assessment
 
-### Technologies
-- Agricultural and Horticultural Studies
-- Algorithmics (HESS)
-- Applied Computing
-- Data Analytics
-- Food Studies
-- Product Design and Technology
-- Systems Engineering
+### School-Assessed Coursework (SACs)
 
-### Languages
-- 40+ languages including Aboriginal Languages of Victoria, Arabic, Auslan, Chinese (multiple streams), French, German, Greek, Indonesian, Italian, Japanese, Korean, Latin, Spanish, Vietnamese, and others
+- Set and marked by the school; moderated by VCAA
+- Typically completed in class under specified conditions
+- Must follow the Study Design's specified task types, mark allocations, and conditions
+- SAC scores contribute to the student's final study score
 
-### Health and Physical Education
-- Health and Human Development
-- Outdoor and Environmental Studies
-- Physical Education
+### School-Assessed Tasks (SATs)
 
-### VCE VM (Vocational Major)
-- Literacy, Numeracy, Work Related Skills, Personal Development Skills
-- Industry-specific VET studies
+- For subjects with a major practical or folio component (e.g., Visual Arts, Design and Technology, Systems Engineering)
+- Assessed by teachers and externally reviewed by VCAA
 
----
+### External Examinations
 
-## Study Design Structure
+- Most Unit 3–4 sequences have an externally set and marked examination
+- Written, oral, or performance examinations as specified by the Study Design
 
-Each VCE Study Design contains:
+### Auth and Authentication
 
-1. **Introduction and rationale** — The purpose and context of the study
-2. **Aims** — What students will develop
-3. **Structure** — How units and areas of study are organised
-4. **Areas of Study** — The content to be taught
-5. **Outcomes** — What students must demonstrate (assessable)
-6. **Assessment** — SAC structure, examination specifications
-7. **Key skills and knowledge** — Specific capabilities required
+Teachers must ensure:
+- Work submitted for assessment is the student's own
+- Conditions of assessment are followed exactly as specified in the Study Design
+- Authentication records are maintained
 
----
+## Key Principles for VIT Teachers
 
-## Assessment in VCE
+### Align Teaching to the Study Design
 
-### Units 1 and 2
-- School-based assessment
-- S (Satisfactory) or N (Not Satisfactory) for each outcome
+The Study Design is the definitive document. Each lesson, assessment task, and report must be traceable to the relevant Outcome, key knowledge, or key skill.
 
-### Units 3 and 4
-- **School-Assessed Coursework (SACs)** — typically 3–5 per subject
-- **School-Assessed Tasks (SATs)** — for practical/studio subjects
-- **External examinations** — written, oral, or performance exams (October–November)
+### Know Your Study Design's Accreditation Period
 
-### Graded Assessment
-- Study Scores (0–50 scale, mean 30, std dev 7)
-- Derived from SAC/SAT results and examination performance
-- Contributes to ATAR calculation
+Study Designs are not permanent. Each has an **accreditation period** (typically 4–7 years). Always confirm the dates for your subject — teaching from an expired Study Design risks students being assessed against outdated criteria.
 
----
+### Moderation and Collaboration
 
-## When Referencing VCE Study Designs
+VCE teachers should participate in:
+- School-based moderation of SAC marking (APST 5.3)
+- VCAA professional learning for new or revised Study Designs
+- Regional and state-wide networks for consistent assessment practices
 
-When using this reference, always:
-1. Confirm the **subject** and **unit(s)**
-2. Identify the relevant **Area of Study** and **Outcome(s)**
-3. Reference **key knowledge** and **key skills** from the Study Design
-4. Note the **assessment type** (SAC, SAT, exam) for Units 3 and 4
-5. Check the **current Study Design** — VCAA periodically releases updated Study Designs with implementation timelines. Always check https://www.vcaa.vic.edu.au/ for the latest version
+### SAC/SAT Conditions Must Be Followed
 
----
+Departing from the specified conditions (e.g., allowing notes when not permitted, extending time limits) can result in compromised student results and VCAA investigation.
 
-## Current Study Design Implementation (2025–2026)
+## Current Study Designs (as of 2026)
 
-Study Designs are revised on a rolling basis. Key recent/upcoming implementations:
-- Some Study Designs have been updated for 2025–2026
-- Always verify the **accreditation period** for the specific subject
-- VCAA publishes implementation timelines and familiarisation periods for new Study Designs
+Study Designs are updated on rolling cycles. Always check the VCAA website for the current list. The VCAA provides advance notice of new or revised Study Designs.
+
+## VCE VM (Vocational Major)
+
+The VCE Vocational Major is a 2-year applied learning program within the VCE. It includes:
+- Literacy, Numeracy, Personal Development Skills, and Work-Related Skills
+- VET (Vocational Education and Training) studies
+- Structured Workplace Learning
+
+## Key References
+
+- VCAA VCE Study Designs: https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/Pages/vce-study-designs.aspx
+- VCAA VCE Examinations and Assessment: https://www.vcaa.vic.edu.au/assessment/vce-assessment/Pages/index.aspx

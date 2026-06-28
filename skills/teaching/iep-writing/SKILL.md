@@ -198,3 +198,5 @@ For EAL students, the standard 5-point age-related reporting scale is not approp
 - Use `behaviour-support-planning` if the student's needs include significant behavioural support
 - Use `incident-documentation` if behaviour incidents occur — consistent documentation supports plan review
 - Use `parent-communication` for sensitive conversations about learning plans with parents
+- Use `vit-inquiry` if you're a PRT — an IEP that shows differentiated practice is strong evidence for APST 1.5, 1.6
+- Use `vit-professional-conduct` for guidance on confidentiality when sharing IEP information with staff and parents

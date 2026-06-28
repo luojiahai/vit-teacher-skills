@@ -10,6 +10,8 @@
     "./skills/teaching/behaviour-support-planning",
     "./skills/teaching/parent-communication",
     "./skills/teaching/vit-inquiry",
+    "./skills/teaching/vit-registration-renewal",
+    "./skills/teaching/vit-professional-conduct",
     "./skills/teaching/professional-learning-reflection"
   ]
 }

@@ -207,6 +207,8 @@ If you're a provisionally registered teacher completing the VIT Inquiry: your In
 ## Cross-Skill Connections
 
 - Use `vit-inquiry` if you're a PRT — your Inquiry PL feeds into your overall PL log
+- Use `vit-registration-renewal` to assemble the full annual renewal declaration and self-audit before submitting via MyVIT
+- Use `vit-professional-conduct` for understanding how PL in ethics and professional boundaries connects to your conduct obligations
 - Use `lesson-planning` or `unit-planning` to document how PL has changed your planning
 - Use `assessment-design` to show how assessment-related PL has changed your practice
 - Connect PL reflections to specific lessons or units to strengthen the practice-impact narrative

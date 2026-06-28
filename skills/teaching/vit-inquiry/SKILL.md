@@ -31,7 +31,7 @@ Understand where the teacher is in their journey:
 
 If the teacher hasn't started yet, begin with Stage 1. If they're partway through, establish which stage and what's already been completed.
 
-Read `shared-references/apst-standards.md` for the full standards framework and `shared-references/vit-policies.md` for VIT requirements. Also read `references/inquiry-5-stages.md` for detailed stage-by-stage guidance and `references/apst-37-descriptors.md` for the complete descriptors at Proficient level.
+Read `shared-references/apst-standards.md` for the full standards framework and `shared-references/vit-policies.md` for VIT requirements. Also read `references/inquiry-5-stages.md` for detailed stage-by-stage guidance.
 
 ## The 5 Stages
 
@@ -262,3 +262,5 @@ The Inquiry draws on almost every other skill in this set:
 - Use `report-card-writing` to understand how your assessment of learners connects to reporting
 - Use `parent-communication` if your Inquiry involves parent engagement (APST 3.7, 7.3)
 - Use `professional-learning-reflection` for documenting the professional learning that feeds into your Inquiry
+- Use `vit-professional-conduct` to strengthen your Professional Responsibilities Report (child safety, professional boundaries, Codes)
+- Use `vit-registration-renewal` for what comes after — once you achieve full registration, you'll need annual renewal

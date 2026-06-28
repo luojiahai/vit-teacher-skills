@@ -175,3 +175,4 @@ A comment that only describes achievement gives parents a snapshot but no direct
 - Use `iep-writing` for students whose reports should reference individual learning goals
 - Use `parent-communication` for parent-teacher interview talking points that expand on report comments
 - Suggest `parent-communication` if the teacher mentions needing to follow up a report with a parent meeting
+- Use `vit-professional-conduct` for guidance on communicating sensitive student information to parents within professional boundaries

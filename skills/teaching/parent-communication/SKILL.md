@@ -223,3 +223,4 @@ A parent who complains and feels heard may become your strongest ally. A parent 
 - Use `incident-documentation` if the communication relates to an incident — keep the documentation and the parent communication aligned
 - Use `iep-writing` for communications about a student's individual learning plan — these conversations need to reference the plan
 - Use `behaviour-support-planning` if a parent conversation identifies the need for a BSP
+- Use `vit-professional-conduct` for guidance on complaint handling, professional boundaries in parent relationships, and when to escalate to leadership

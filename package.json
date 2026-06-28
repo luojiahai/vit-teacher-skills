@@ -1,14 +1,15 @@
 {
   "name": "vit-teacher-skills",
-  "version": "1.0.0",
-  "description": "Skills for VIT-registered teachers in Victoria, Australia — lesson planning, report writing, assessment design, IEP writing, incident documentation, behaviour support, parent communication, VIT inquiry, and professional learning reflection. All aligned to APST, Victorian Curriculum F–10, and VCE Study Designs.",
+  "version": "2.0.0",
+  "description": "Skills for VIT-registered teachers in Victoria, Australia — VIT registration (Inquiry, renewal, professional conduct), lesson planning, report writing, assessment design, IEP writing, incident documentation, behaviour support, parent communication, and professional learning reflection. All aligned to APST, Victorian Curriculum F–10, and VCE Study Designs.",
   "author": "VIT Teacher Skills Contributors",
   "license": "MIT",
   "keywords": [
-    "teaching",
     "VIT",
-    "Victorian Curriculum",
+    "Victorian Institute of Teaching",
     "APST",
+    "teacher registration",
+    "Victorian Curriculum",
     "lesson planning",
     "report writing",
     "assessment",
@@ -17,16 +18,17 @@
     "parent communication",
     "VCE",
     "skills",
-    "claude-code"
+    "PRT",
+    "professional learning",
+    "professional conduct"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/luojiahai/vit-teacher-skills"
   },
   "files": [
-    "skills/",
+    ".agents/skills/",
     "shared-references/",
-    ".claude-plugin/",
     "CLAUDE.md",
     "README.md"
   ]

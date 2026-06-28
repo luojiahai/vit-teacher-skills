@@ -169,3 +169,4 @@ VCE SACs and SATs have specific requirements set by VCAA. Always check the curre
 - Use `unit-planning` if the unit that houses this assessment isn't planned yet
 - Use `report-card-writing` when it's time to turn assessment results into report comments
 - Use `vit-inquiry` if this assessment will be annotated as evidence for registration
+- Use `vit-professional-conduct` for guidance on assessment integrity — maintaining fairness, confidentiality, and avoiding conflicts of interest in assessment of students

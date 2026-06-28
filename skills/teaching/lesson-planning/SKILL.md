@@ -161,9 +161,10 @@ Because APST 1.5 requires it, and because Victorian classrooms include students 
 ### Keep it practical
 A lesson plan is a guide, not a script. The best plans are clear enough to follow but flexible enough to adapt. Don't over-script. Trust the teacher's professional judgement.
 
-## When a Lesson Plan Needs More
+## Cross-Skill Connections
 
 - If the teacher needs a **whole unit**, suggest the `unit-planning` skill
 - If they need **assessment tasks**, suggest the `assessment-design` skill
 - If they're working on their **VIT Inquiry**, suggest the `vit-inquiry` skill — annotated lesson plans are core evidence
 - If the lesson involves a student with an **IEP**, suggest the `iep-writing` skill
+- Use `vit-professional-conduct` for guidance on professional boundaries in lesson contexts (e.g., appropriate physical contact during instruction)
